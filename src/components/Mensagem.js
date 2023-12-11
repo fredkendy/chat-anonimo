@@ -7,7 +7,7 @@ export default function Mensagem(props) {
       <View style={{backgroundColor: '#cdcdcd', borderRadius: 8}}>
         <Text style={{ padding: 8, color: 'black' }}>Conteúdo da Mensagem</Text>
       </View>
-      <Text>Mensagem</Text>
+      <Text>Pessoa - 10:50</Text>
     </View>
   );
 }
