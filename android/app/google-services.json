@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524828801090",
+    "project_id": "chatanonimo-1485d",
+    "storage_bucket": "chatanonimo-1485d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524828801090:android:4ef6827827eb10daa195db",
+        "android_client_info": {
+          "package_name": "com.chatanonimo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ikTq7EFEQRmMYzVvAlpJjHcKTNY_oFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
